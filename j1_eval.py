@@ -4,7 +4,7 @@ import os
 import pickle
 
 import torch
-from nh_env import NHEnv
+from j1_env import J1Env
 from rsl_rl.runners import OnPolicyRunner
 
 import genesis as gs
