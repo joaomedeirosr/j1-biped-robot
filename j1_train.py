@@ -3,7 +3,7 @@ import os
 import pickle
 import shutil
 
-from nh_env import NHEnv
+from j1_env import NHEnv
 from rsl_rl.runners import OnPolicyRunner
 
 import genesis as gs
